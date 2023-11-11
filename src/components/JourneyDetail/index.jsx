@@ -17,6 +17,7 @@ export const JourneyDetail = ({ journey }) => {
           />
         ))}
       </div>
+      
     </div>
   );
 };
